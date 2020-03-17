@@ -1,7 +1,7 @@
 <map version="1.0.0"><node ID="F2172B38-9873-42F3-B888-C93CBA36240E" BACKGROUND_COLOR="#F2F2F2" TEXT="&#21069;&#31471;&#23398;&#20064;" COLOR="#4B4B4B" POSITION="right" STYLE="bubble"><edge COLOR="#FFFFFF" WIDTH="4" /><font NAME="PingFangSC-Semibold" SIZE="24" BOLD="true" /><node ID="61D4D2CD-ED38-4540-9BF5-989ECEB8B9AE" TEXT="javascript" COLOR="#F3F3F3" POSITION="right" STYLE="fork"><edge COLOR="#FFCD3B" WIDTH="6" /><font NAME="Helvetica" SIZE="20" /></node>
 <node ID="E0B06B51-BD66-44D9-8407-7F35D3487C12" TEXT="es6" COLOR="#F3F3F3" POSITION="right" STYLE="fork"><edge COLOR="#64C8CD" WIDTH="6" /><font NAME="Helvetica" SIZE="20" /></node>
 <node ID="BD61E930-DA2D-4A28-86C9-8A4778962A1F" TEXT="TypeScript" COLOR="#F3F3F3" POSITION="right" STYLE="fork"><edge COLOR="#CC2B36" WIDTH="6" /><font NAME="Helvetica" SIZE="20" /></node>
-<node ID="0762356B-0387-40EE-B4E2-1553D1CB2E04" TEXT="css" COLOR="#F3F3F3" POSITION="right" STYLE="fork"><edge COLOR="#FF5E69" WIDTH="6" /><font NAME="Helvetica" SIZE="20" /><richcontent TYPE="NOTE"><html><head></head>
+<node ID="0762356B-0387-40EE-B4E2-1553D1CB2E04" TEXT="css(&#26356;&#26032;&#20013;)" COLOR="#F3F3F3" POSITION="right" STYLE="fork"><edge COLOR="#FF5E69" WIDTH="6" /><font NAME="Helvetica" SIZE="20" /><richcontent TYPE="NOTE"><html><head></head>
 <body><p style='color: rgba(0, 0, 0, 1.000000); font: 16px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '>Cascading Style Sheet</p><p></p><p style='color: rgba(0, 0, 0, 1.000000); font: 16px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '>层叠样式表</p></body>
 </html>
 </richcontent>
