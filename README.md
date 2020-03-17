@@ -1,7 +1,7 @@
 # 说明
 
-* 源文件由收费软件[Mindnode]()编写
-* 导出png版本以及开源软件[Freemind]()版本
+* 源文件由收费软件[Mindnode](https://mindnode.com/)编写
+* 导出png版本以及开源软件[Freemind](http://freemind.sourceforge.net/wiki/index.php/Main_Page)版本
 * 从四面八方整理而来，我只是一个搬运工。
 * 会持续更新
 
