@@ -5,6 +5,10 @@
 * 从四面八方整理而来，我只是一个搬运工。
 * 会持续更新
 
+# 内容预览
+
+![png版本脑图(内有注释请用相关软件打开)](https://raw.githubusercontent.com/tedyuen/frontend-learning-stack/master/png.png)
+
 # 鸣谢(各个原作者)
 
 * 慕课网双越老师
