@@ -11,7 +11,7 @@
 
 # 鸣谢(各个原作者)
 
-* 慕课网双越老师
-* 慕课网TooBug老师
+* 慕课网[双越老师](https://coding.imooc.com/learn/list/419.html)
+* 慕课网[TooBug老师](https://coding.imooc.com/learn/list/164.html)
 * 掘金社区挖坑的张师傅(微信公众号：张师傅的博客(shifuzhang01))
 * 掘金社区yck(微信公众号：前端真好玩)
